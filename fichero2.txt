@@ -1,2 +1,2 @@
 fichero2
-Hola m...
+Hola mundo
